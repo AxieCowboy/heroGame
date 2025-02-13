@@ -1,12 +1,13 @@
 import { useState } from 'react'
 import './App.css'
+import CharacterGame from './charactergame'
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <>
-      hello world x2
+      <CharacterGame />
     </>
   )
 }
