@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      hello world
+      hello world x2
     </>
   )
 }
